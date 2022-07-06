@@ -1,0 +1,18 @@
+th {
+    position: -webkit-sticky;
+    position: sticky;
+    background-color: burlywood;
+    top: -3px;
+    z-index: 2;
+}
+
+body {
+    background-color: bisque; /* Цвет фона */
+}
+
+nav {
+    background: bisque;
+    font-style: italic;
+    font-weight: bold;
+}
+
